@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"  viewBox="0 0 400 400" enable-background="new 0 0 400 400" xml:space="preserve">
+<g id="Capa_1">
+	<rect x="19.5" y="20.5" fill="none" stroke="#9249EC" stroke-miterlimit="10" width="160" height="160"/>
+	<rect x="219.5" y="20.5" fill="none" stroke="#9249EC" stroke-miterlimit="10" width="160" height="160"/>
+	<rect x="19.5" y="220.5" fill="none" stroke="#9249EC" stroke-miterlimit="10" width="160" height="160"/>
+	<rect x="219.5" y="220.5" fill="none" stroke="#9249EC" stroke-miterlimit="10" width="160" height="160"/>
+</g>
+<g id="Capa_2">
+	<text transform="matrix(1 0 0 1 40 55)"><tspan x="0" y="0" font-family="'ArialMT'" font-size="21">S</tspan><tspan x="14.007" y="0" font-family="'ArialMT'" font-size="11">1</tspan></text>
+	<text transform="matrix(1 0 0 1 140 55)"><tspan x="0" y="0" font-family="'ArialMT'" font-size="21">S</tspan><tspan x="14.007" y="0" font-family="'ArialMT'" font-size="11">2</tspan></text>
+	<text transform="matrix(1 0 0 1 144 139)" fill="#333333" font-family="'ArialMT'" font-size="21">S</text>
+	<line fill="#999999" stroke="#00A19A" stroke-miterlimit="10" x1="144.829" y1="139.71" x2="157.34" y2="122.579"/>
+	<text transform="matrix(1 0 0 1 50 165)" fill="#00A19A" font-family="'ArialMT'" font-size="16">ALIENACIÓN</text>
+	<line fill="none" stroke="#3B382A" stroke-width="2" stroke-miterlimit="10" x1="75" y1="50" x2="125" y2="50"/>
+	<g>
+		<g>
+			<line fill="none" stroke="#3B382A" stroke-width="2" stroke-miterlimit="10" x1="150" y1="63" x2="150" y2="107"/>
+			<g>
+				<polygon fill="#3B382A" points="150,113 146.748,105.041 150,106.929 153.251,105.041 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line fill="none" stroke="#00A19A" stroke-width="2" stroke-miterlimit="10" x1="101" y1="30" x2="101" y2="36"/>
+			
+				<line fill="none" stroke="#00A19A" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="10,10" x1="101" y1="46" x2="101" y2="104"/>
+			<line fill="none" stroke="#00A19A" stroke-width="2" stroke-miterlimit="10" x1="101" y1="109" x2="101" y2="115"/>
+		</g>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 145 258)" fill="#333333" font-family="'ArialMT'" font-size="21">A</text>
+	</g>
+	<text transform="matrix(1 0 0 1 40 258)" fill="#333333" font-family="'ArialMT'" font-size="21">S</text>
+	<line fill="#999999" stroke="#51A079" stroke-miterlimit="10" x1="40.829" y1="259.71" x2="53.34" y2="242.578"/>
+	<line fill="#999999" stroke="#51A079" stroke-miterlimit="10" x1="146.942" y1="260.449" x2="157.202" y2="241.881"/>
+	<text transform="matrix(1 0 0 1 51 357)" fill="#00A19A" font-family="'ArialMT'" font-size="16">SEPARACIÓN</text>
+	<line fill="none" stroke="#3B382A" stroke-width="2" stroke-miterlimit="10" x1="70" y1="250" x2="135" y2="250"/>
+</g>
+<g id="Capa_3">
+	<text transform="matrix(1 0 0 1 238 39)" font-family="'ArialMT'" font-size="9">Conjunto A</text>
+	<text transform="matrix(1 0 0 1 318 39)" font-family="'ArialMT'" font-size="9">Conjunto B</text>
+	<circle fill="#FFBD1F" cx="260.001" cy="69" r="20"/>
+	<text transform="matrix(1 0 0 1 250 73)"><tspan x="0" y="0" font-family="'ArialMT'" font-size="9" letter-spacing="1">AB</tspan><tspan x="15.605" y="0" fill="#FFFFFF" font-family="'ArialMT'" font-size="9" letter-spacing="1">C</tspan></text>
+	<circle fill="#FFBD1F" cx="340.001" cy="70" r="20"/>
+	<path fill="#FFBD1F" d="M315.001,134c-5.714,0-10.855,2.409-14.5,6.251c-3.645-3.843-8.786-6.251-14.5-6.251
+		c-11.046,0-20,8.954-20,20s8.954,20,20,20c5.714,0,10.855-2.409,14.5-6.251c3.645,3.843,8.786,6.251,14.5,6.251
+		c11.046,0,20-8.954,20-20S326.047,134,315.001,134z"/>
+	<text transform="matrix(1 0 0 1 330 73)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'ArialMT'" font-size="9" letter-spacing="1">C</tspan><tspan x="8.3" y="0" font-family="'ArialMT'" font-size="9" letter-spacing="1">DE</tspan></text>
+	<text transform="matrix(1 0 0 1 239 240)" font-family="'ArialMT'" font-size="9">Conjunto A</text>
+	<text transform="matrix(1 0 0 1 319 240)" font-family="'ArialMT'" font-size="9">Conjunto B</text>
+	<circle fill="#FFBD1F" cx="261.001" cy="270" r="20"/>
+	<text transform="matrix(1 0 0 1 251 273)"><tspan x="0" y="0" font-family="'ArialMT'" font-size="9" letter-spacing="1">AB</tspan><tspan x="15.605" y="0" fill="#FFFFFF" font-family="'ArialMT'" font-size="9" letter-spacing="1">C</tspan></text>
+	<circle fill="#FFBD1F" cx="341.001" cy="271" r="20"/>
+	<g>
+		<g>
+			<path fill="none" stroke="#FFBD1F" stroke-miterlimit="10" d="M298.322,333.784c0.54-0.389,1.101-0.752,1.679-1.087
+				c-0.575-0.333-1.168-0.639-1.776-0.915"/>
+			<path fill="none" stroke="#FFBD1F" stroke-miterlimit="10" stroke-dasharray="3.9878,1.9939" d="M296.371,331.049
+				c-2-0.678-4.141-1.049-6.37-1.049c-11.046,0-20,8.954-20,20s8.954,20,20,20c2.579,0,5.039-0.496,7.3-1.39"/>
+			<path fill="none" stroke="#FFBD1F" stroke-miterlimit="10" d="M298.225,368.218c0.608-0.276,1.201-0.582,1.776-0.915
+				c-0.578-0.335-1.139-0.698-1.679-1.087"/>
+			<path fill="none" stroke="#FFBD1F" stroke-miterlimit="10" stroke-dasharray="3.9818,1.9909" d="M296.768,364.974
+				c-4.147-3.66-6.767-9.007-6.767-14.974c0-6.322,2.941-11.948,7.524-15.61"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path fill="none" stroke="#FFBD1F" stroke-miterlimit="10" d="M301.777,331.782c-0.608,0.276-1.201,0.582-1.776,0.915
+				c0.578,0.335,1.139,0.698,1.679,1.087"/>
+			<path fill="none" stroke="#FFBD1F" stroke-miterlimit="10" stroke-dasharray="3.9818,1.9909" d="M303.234,335.026
+				c4.147,3.66,6.767,9.007,6.767,14.974c0,6.322-2.941,11.948-7.524,15.61"/>
+			<path fill="none" stroke="#FFBD1F" stroke-miterlimit="10" d="M301.68,366.216c-0.54,0.389-1.101,0.752-1.679,1.087
+				c0.575,0.333,1.168,0.639,1.776,0.915"/>
+			<path fill="none" stroke="#FFBD1F" stroke-miterlimit="10" stroke-dasharray="3.9878,1.9939" d="M303.631,368.951
+				c2,0.678,4.141,1.049,6.37,1.049c11.046,0,20-8.954,20-20s-8.954-20-20-20c-2.579,0-5.039,0.496-7.3,1.39"/>
+		</g>
+	</g>
+	<path fill="#FFBD1F" stroke="#FFBD1F" stroke-miterlimit="10" d="M310.001,350c0-7.398-4.027-13.843-10-17.303
+		c-5.973,3.46-10,9.904-10,17.303s4.027,13.843,10,17.303C305.974,363.843,310.001,357.398,310.001,350z"/>
+	<text transform="matrix(1 0 0 1 331 273)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'ArialMT'" font-size="9" letter-spacing="1">C</tspan><tspan x="8.3" y="0" font-family="'ArialMT'" font-size="9" letter-spacing="1">DE</tspan></text>
+	<text transform="matrix(1 0 0 1 254 110)" fill="#00A19A" font-family="'ArialMT'" font-size="9">OPERACIÓN UNIÓN</text>
+	<text transform="matrix(1 0 0 1 281 155)"><tspan x="0" y="0" font-family="'ArialMT'" font-size="9" letter-spacing="1">AB</tspan><tspan x="15.605" y="0" fill="#FFFFFF" font-family="'ArialMT'" font-size="9" letter-spacing="1">C</tspan><tspan x="23.905" y="0" font-family="'ArialMT'" font-size="9" letter-spacing="1">DE</tspan></text>
+	<text transform="matrix(1 0 0 1 287.5 122.5)"><tspan x="0" y="0" font-family="'ArialMT'" font-size="9">A </tspan><tspan x="9.403" y="0" fill="#9249EC" font-family="'ArialMT'" font-size="11">Ս</tspan><tspan x="17.924" y="0" font-family="'ArialMT'" font-size="9"> B</tspan></text>
+	<text transform="matrix(1 0 0 1 234 307.5)" fill="#00A19A" font-family="'ArialMT'" font-size="9">OPERACIÓN INTERSECCIÓN</text>
+	<text transform="matrix(1 0 0 1 289.5 320)"><tspan x="0" y="0" font-family="'ArialMT'" font-size="9">A </tspan><tspan x="9.403" y="0" fill="#9249EC" font-family="'Arial-BoldMT'" font-size="11">∩</tspan><tspan x="17.897" y="0" font-family="'ArialMT'" font-size="9"> B</tspan></text>
+	<text transform="matrix(1 0 0 1 297 352.3311)" fill="#FFFFFF" font-family="'ArialMT'" font-size="9">C</text>
+</g>
+</svg>

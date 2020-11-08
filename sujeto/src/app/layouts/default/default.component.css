@@ -1,0 +1,11 @@
+.main-content {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.sidebar {
+    width: 20%;
+    min-height: 500px;
+    background-color: #eeebed;
+}

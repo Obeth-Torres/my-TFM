@@ -1,0 +1,31 @@
+.page3 {
+    display: grid;
+    grid-template-columns: 1fr 8fr 1fr;
+    align-items: center;
+    justify-items: center;
+}
+
+.main-page {
+    max-width: 700px;
+    background-color: #ffff;
+    padding: 30px;
+
+}
+.page-content {
+    font-size: 0.8rem;
+    text-align: justify;
+}
+
+footer {
+    color: #cccc;
+    font-size: 0.6rem;
+}
+
+@media (max-width: 600px) {
+    .page3 {
+        grid-template-columns: 1fr;
+    }
+    .back-page, .next-page {
+        display: none;
+    }
+}

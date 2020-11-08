@@ -1,0 +1,11 @@
+.boxes {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    align-items: center;
+    justify-items: center;
+}
+.autre {
+    max-width: 100px;
+    font-size: 0.6rem;
+    text-align: center;
+}

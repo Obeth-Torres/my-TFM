@@ -1,0 +1,12 @@
+.boxes {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-gap: 20px;
+    align-items: center;    
+}
+.box-2 {
+    font-size: 0.7rem;
+}
+.banda-m {
+    max-width: 200px;
+}

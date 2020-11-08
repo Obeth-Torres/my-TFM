@@ -1,0 +1,17 @@
+
+.boxes {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    align-items: center;
+    grid-gap: 20px;
+}
+.sujeto {
+    max-width: 200px;
+    font-size: 0.6rem;
+    text-align: center;
+}
+.sujeto p {
+    padding: 0px 10px;
+    background-color: rgb(219, 219, 219);
+    margin: 0px 10px 0px 20px;
+}

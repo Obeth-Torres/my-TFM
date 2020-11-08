@@ -1,0 +1,14 @@
+
+.parrafo-especial {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+}
+
+.cartel {
+    text-align: center;
+    border: 5px solid #9249ec;
+    color: #9249ec;
+    padding: 10px;
+    max-width: 400px;
+}

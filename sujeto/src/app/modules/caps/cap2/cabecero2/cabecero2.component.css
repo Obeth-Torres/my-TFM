@@ -1,0 +1,11 @@
+.cabecero2{
+    display: grid;
+    grid-template-columns: auto 180px;
+    border-bottom: 1px solid #0c4b86;
+    color: #0c4b86;
+    margin-bottom: 30px;
+}
+.tfm, .otm {
+    display: flex;
+    align-items: center;
+}

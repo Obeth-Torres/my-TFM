@@ -1,0 +1,15 @@
+
+.boxes {
+    display: grid;
+    grid-template-columns: 2fr 6fr;
+    grid-gap: 40px;
+    
+}
+.box-1 {
+    padding-top: 20px;
+}
+
+.psi {
+    text-align: center;
+}
+

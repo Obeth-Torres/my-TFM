@@ -1,0 +1,15 @@
+.boxes {
+    display: grid;
+    grid-template-columns: 3fr 6fr;
+    grid-gap: 10px;
+}
+
+.box-1 div {
+    padding: 0 10px;
+    border: 1.5px solid #ff0063;
+    margin: 15px 0px;
+    
+}
+.box-1 h4 {
+    color: #ff0063;
+}

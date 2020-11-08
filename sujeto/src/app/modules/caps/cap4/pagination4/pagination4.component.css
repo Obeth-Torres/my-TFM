@@ -1,0 +1,15 @@
+.paginas  {
+    text-align: center;
+    background-color: #00a19a;
+    padding: 3px;
+}
+.paginas a {
+    margin: 10px 0px;
+    text-decoration: none;    
+    color: #ffff;
+    padding: 3px 7px;
+    border-radius: 5px;
+}
+.active {
+    background-color: #9249ec;
+}

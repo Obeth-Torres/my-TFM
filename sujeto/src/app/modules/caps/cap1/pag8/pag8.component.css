@@ -1,0 +1,10 @@
+
+.boxes {
+    display: grid;
+    grid-template-columns: 6fr 2fr;
+    grid-gap: 20px;
+}
+#ocho-interior {
+    text-align: center;
+    background-color: #fa7d64;
+}

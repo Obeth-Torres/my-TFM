@@ -1,0 +1,15 @@
+.cabecero {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    border-bottom: 1px solid #0c4b86;
+    grid-gap: 20px;
+    font-size: 0.7rem;
+}
+.tfm {
+    color: #0c4b86;
+    
+}
+.logo {
+    color: #0c4b86;
+    text-align: center;
+}

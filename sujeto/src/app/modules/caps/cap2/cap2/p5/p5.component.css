@@ -1,0 +1,13 @@
+.boxes {
+    display: grid;
+    grid-template-columns: 3fr 6fr;
+    grid-gap: 20px;
+}
+h4 {
+    color: #ff0063;
+}
+.telescopio {
+    justify-content: center;
+    text-align: center;
+    border: 1px solid #0c4b86;
+}

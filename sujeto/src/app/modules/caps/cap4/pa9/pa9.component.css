@@ -1,0 +1,7 @@
+.boxes {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+}
+.juego {
+    max-width: 250px;
+}

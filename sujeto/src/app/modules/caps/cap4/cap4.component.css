@@ -1,0 +1,37 @@
+.title {
+    display: grid;
+    grid-template-columns: 9fr 1fr;
+    align-items: center;
+    background-color: #00a19a;
+    padding: 0px 15px;
+}
+.lacan {
+    color: #ffff;
+}
+.logo {
+    color: #ffbd1f;
+}
+.links {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.links div {
+    background-color: #00a19a;
+    margin: 3px 10px;
+    text-align: center;
+    padding: 5px;
+    border-radius: 5px;
+}
+.links a {
+    text-decoration: none;
+    color: #ffff;
+}
+.links div:hover {
+    background-color: #ff0063;
+}
+footer {
+    background-color: #00a19a;
+    text-align: center;
+    padding: 8px;
+    margin-top: 3px;
+}

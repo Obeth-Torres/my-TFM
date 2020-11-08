@@ -1,0 +1,16 @@
+
+.boxes {
+    display: grid;
+    grid-template-columns: 2fr 6fr;
+    grid-gap: 20px;
+}
+.box-1 {
+    padding-top: 18px;
+}
+.box-1 img {
+    background-color: #f86a4e;
+    padding: 10px;
+}
+@media (max-width: 700px) {
+
+}

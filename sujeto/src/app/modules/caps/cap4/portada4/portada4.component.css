@@ -1,0 +1,17 @@
+* {
+    margin: 0px;
+}
+.portada4 {
+    background-image: url("/.//assets/fotos/foto5.jpg");
+    background-size: cover;
+    min-height: 800px;
+    text-align: center;
+    color: #ffff;
+    padding: 100px;
+}
+.sujeto-tachado {
+    border: 2px solid #ffff;
+    border-radius: 10%;
+    width: 300px;
+    margin: 100px auto;
+}

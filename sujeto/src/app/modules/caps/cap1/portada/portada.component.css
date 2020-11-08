@@ -1,0 +1,33 @@
+.content {
+    min-height: 700px;
+    display: grid;
+    margin: 0px 0px;
+    background-image: url("/../assets/fotos/foto2.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.main-title {
+    color: #ffff;
+    padding: 40px;
+    text-align: center;
+}
+.next {
+    text-align: center;
+    color: #f39a88;
+}
+.extras {
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    justify-content: center;
+}
+.extras div {
+    width: 200px;
+    background-color: #3d3d3d;
+    color: #f5320c;
+    margin: 5px;
+    text-align: center;
+    padding: 15px;
+    border-radius: 3px;
+    
+}

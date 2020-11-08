@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"  viewBox="0 0 400 400" enable-background="new 0 0 400 400" xml:space="preserve">
+<g id="impossible">
+	<text transform="matrix(1 0 0 1 156.8574 71.499)">
+	<tspan x="10" y="0" fill="#1A171B" font-family="'Montserrat-SemiBold'" font-size="18">Impossible</tspan>
+	<tspan x="-130" y="20" fill="#00a19a" font-family="'Montserrat-Regular'" font-size="15">(inconsistance, incomplétude, indémostrable, indécidable)</tspan></text>
+</g>
+<g id="flechas">
+	<g>
+		<g>
+			<line fill="none" stroke="#6f7072" stroke-width="2" stroke-miterlimit="10" x1="160" y1="125" x2="252" y2="125"/>
+			<g>
+				<polygon fill="#6F7072" points="260,125 248.061,129.878 250.894,125 248.061,120.123 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line fill="none" stroke="#6F7072" stroke-width="2" stroke-miterlimit="10" x1="60" y1="250" x2="60" y2="158"/>
+			<g>
+				<polygon fill="#6F7072" points="60,150 64.878,161.939 60,159.106 55.123,161.939 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line fill="none" stroke="#6F7072" stroke-width="2" stroke-miterlimit="10" x1="340" y1="149" x2="340" y2="241"/>
+			<g>
+				<polygon fill="#6F7072" points="340,248.998 335.121,237.059 340,239.892 344.877,237.059 				"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="lugares">
+	<g>
+		<g>
+			<line fill="none" stroke="#6F7072" stroke-width="2" stroke-miterlimit="10" x1="100" y1="205" x2="180" y2="205"/>
+			<line fill="none" stroke="#6F7072" stroke-width="2" stroke-miterlimit="10" x1="220" y1="205" x2="300" y2="205"/>
+		</g>
+		<text transform="matrix(1 0 0 1 97.0576 189.999)" font-family="'Montserrat-Bold'" font-size="17">Semblant</text>
+		<text transform="matrix(1 0 0 1 113.0122 229.999)" font-family="'Montserrat-Bold'" font-size="17">Verité</text>
+		<text transform="matrix(1 0 0 1 234.9238 189.999)" font-family="'Montserrat-Bold'" font-size="17">Autre</text>
+		<text transform="matrix(1 0 0 1 226.5684 229.999)" font-family="'Montserrat-Bold'" font-size="17">Produit</text>
+	</g>
+	
+		<rect x="181.3" y="252.441" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -133.5611 221.8363)" fill="none" stroke="#000000" stroke-miterlimit="10" width="39.399" height="39.4"/>
+</g>
+<g id="possible">
+	<text transform="matrix(1 0 0 1 175.1421 315)">
+	<tspan x="0" y="0" font-family="'Montserrat-Regular'" font-size="15">Possible</tspan>
+	<tspan x="-15" y="14.4" font-family="'Montserrat-Regular'" font-size="15">(impuissance)</tspan></text>
+</g>
+</svg>

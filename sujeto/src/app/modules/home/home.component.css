@@ -1,0 +1,61 @@
+.land{
+    margin: 3px 0px;
+    background-color: #ffff;
+    padding: 30px 50px;
+}
+.imagen {
+    background-image: url("/../assets/fotos/cover.jpg");
+    background-size: cover;
+    background-position: top;
+    padding: 20px;
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    min-height: 800px;
+
+}
+.imagen h1 {
+    font-size: 1rem;
+    color: #ffff;
+    margin-bottom: 0;
+}
+.imagen h2 {
+    font-size: 0.8rem;
+    color: #21b5c3;
+    margin-top: 0;
+}
+.capitulos {
+    font-size: 0.8rem;
+    text-align: center;  
+
+}
+.cap {
+    justify-items: center;
+    margin-bottom: 10px;
+    color: #ffff;
+    height: 150px;
+    width: 150px;
+    
+}
+.cap h3 {
+    color: #21b5c3;
+}
+.extras {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.extras div {
+    width: 200px;
+    height: 100px;
+    background-color: #21b5c3;
+    color: #0c4b86;
+    margin: 5px;
+    text-align: center;
+    padding: 15px;
+    border-radius: 3px;
+}
+@media (max-width: 700px){
+    .land {
+        padding: 0px 0px;
+    }
+}

@@ -1,0 +1,9 @@
+.boxes {
+    display: grid;
+    grid-template-columns: 3fr 6fr;
+    grid-gap: 20px;
+}
+.box-1 h4 {
+    color: #0c4b86;
+    border-bottom: 1px solid #0c4b86;
+}

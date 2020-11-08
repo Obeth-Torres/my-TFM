@@ -1,0 +1,13 @@
+
+.boxes {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+}
+
+
+footer {
+    color: #0c4b86;
+    font-size: 0.7rem;
+    border-top: 1px solid #0c4b86;
+}

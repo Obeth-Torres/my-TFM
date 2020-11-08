@@ -1,0 +1,17 @@
+h3 {
+    color: #0c4b86;
+}
+.boxes {
+    display: grid;
+    grid-template-columns: 3fr 6fr ;
+    grid-gap: 20px;
+}
+.box-1 {
+    text-align: center;
+    background-color: #a1cffa;
+    justify-content: center;
+    justify-items: center;
+}
+.box-1 img {
+    margin-right: 13px;
+}

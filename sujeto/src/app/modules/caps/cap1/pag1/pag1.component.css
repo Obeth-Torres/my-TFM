@@ -1,0 +1,27 @@
+
+
+.boxes {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.box-2 {
+    padding: 0px 20px;
+}
+
+
+
+.pie-de-p {
+    color: #0c4b86;
+    font-size: 0.7rem;
+    border-top: 1px solid #0c4b86;
+}
+@media (max-width: 600px) {
+    .boxes { 
+         grid-template-columns: 1fr;}
+    .next-page, .back-page {
+        display: none;}
+    .pagina {
+        grid-template-columns: 1fr;
+    }
+
+}

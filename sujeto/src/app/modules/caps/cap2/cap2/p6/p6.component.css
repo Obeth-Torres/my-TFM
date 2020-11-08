@@ -1,0 +1,9 @@
+.boxes {
+    display: grid;
+    grid-template-columns: 6fr 4fr;
+    grid-gap: 20px;
+}
+.box-2 h4 {
+    color: #0c4b86;
+    text-align: center;
+}

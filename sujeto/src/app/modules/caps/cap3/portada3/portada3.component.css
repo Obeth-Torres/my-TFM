@@ -1,0 +1,43 @@
+.portada {
+    background-image: url("/.//assets/fotos/foto4.jpg");
+    background-size: cover;
+    background-position: top;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    padding: 20px;
+    text-align: center;
+    min-height: 900px;
+}
+.tfm {
+    
+    grid-column: 3/4;
+    font-size: 0.6rem;
+}
+.title {
+    grid-column: 1/6;
+    font-size: 0.8rem;
+    padding: 120px 0px;
+
+}
+.autor {
+    grid-column: 3/4;
+    font-size: 0.6rem;
+    min-height: 150px;
+}
+.extras {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.extras div {
+    width: 200px;
+    background-color: rgb(70, 69, 69);
+    color: #ffbd1f;
+    align-items: center;
+    text-align: center;
+    padding: 20px 10px;
+    border-radius: 3px;
+    font-size: .7rem;
+    margin: 3px;
+}

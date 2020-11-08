@@ -1,0 +1,15 @@
+.box-1 {
+    font-size: 0.9rem;
+}
+.box-2 {
+    max-width: 400px;
+}
+
+@media (max-width: 700px) {
+    .back-page, .next-page {
+        display: none;
+    }
+    .pagina {
+        grid-template-columns: 1fr;
+    }
+}

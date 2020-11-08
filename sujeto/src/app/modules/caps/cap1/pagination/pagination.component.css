@@ -1,0 +1,22 @@
+.paginacion {
+    background-color: #f5320c;
+    text-align: center;
+    padding: 1px;
+}
+.paginas a {
+    padding: 0px 10px;
+    font-size: 0.8rem;  
+    padding: 3px 10px;  
+}
+.paginas a.active {
+    background-color: #9249ec;
+}
+
+ .paginacion a {
+    text-decoration: none;
+    color: #ffff;
+
+ }
+ .paginacion a:hover {
+     background-color: #9249ec;
+ }

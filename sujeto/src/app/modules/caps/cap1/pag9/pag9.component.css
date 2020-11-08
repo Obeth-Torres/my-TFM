@@ -1,0 +1,10 @@
+.boxes {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    grid-gap: 20px;
+}
+.box-1{
+    background-color: #f1b4a8;
+    padding: 0px 10px;
+    text-align: center;
+}

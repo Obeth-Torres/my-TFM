@@ -1,0 +1,15 @@
+.cabecero {
+    display: grid;
+    grid-template-columns: 8fr 2fr;
+    font-size: 0.6rem;
+    padding: 0px 20px;
+    border-bottom: 1px solid #0C4B86;
+}
+.cabecero .nombre {
+    color: #0C4B86;
+}
+.logo {
+    color: #0C4B86;
+    width: 40px;
+    text-align: center;
+}

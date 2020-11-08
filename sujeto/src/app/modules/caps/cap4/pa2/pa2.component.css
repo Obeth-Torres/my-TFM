@@ -1,0 +1,19 @@
+.posiciones {
+    width: 400px;
+    height: 400px;
+}
+.boxes {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    justify-items: center;
+}
+.color {
+    color: #00a19a;
+}
+
+@media (max-width:900px) {
+    .boxes {
+        grid-template-columns: 1fr;
+    }
+}

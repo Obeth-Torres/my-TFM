@@ -1,0 +1,44 @@
+.pag4 {
+    display: grid;
+    grid-template-columns: 1fr 8fr 1fr;
+    justify-items: center;
+    align-items: center;
+}
+
+.main-page {
+    background-color: #ffff;
+    max-width: 700px;
+}
+
+.page-content {
+    padding: 30px;
+    justify-items: center;
+    font-size: 0.8rem;
+    line-height: 1.4rem;
+    text-align: justify;
+    text-indent: 3em;
+}
+
+
+.cita {
+    margin: 20px;  
+    border: 3px solid #cccc;
+    color: #f5320c;
+    border-radius: 0.5rem;
+    padding: 10px;
+    font-size: 0.7rem; 
+}
+
+footer {
+    font-size: 0.6rem;
+    color: #f5ae0c;
+}
+
+@media (max-width:600px) {
+    .next-page, .back-page {
+        display: none;
+    }
+    .pag4 {
+        grid-template-columns: 1fr;
+    }
+}

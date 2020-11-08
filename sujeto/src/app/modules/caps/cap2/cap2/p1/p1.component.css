@@ -1,0 +1,12 @@
+
+
+.boxes {
+    display: grid;
+    grid-template-columns: 3fr 6fr;
+    grid-gap: 10px;
+}
+
+h1, h2 {
+    color: #0c4b86;
+    text-align: center;
+}
