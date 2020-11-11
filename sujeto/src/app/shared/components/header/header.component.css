@@ -52,7 +52,10 @@
     text-align: center;
     border-radius: 3px;
 }
-.links a:hover {
+.links a.active {
     background-color: #3b3b3b;
-    
 }
+.links a:hover {
+    background-color: #3b3b3b;    
+}
+

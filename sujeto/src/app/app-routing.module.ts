@@ -12,13 +12,10 @@ import { Routes, RouterModule } from '@angular/router';
 const routes: Routes = [
   {path: '', component: DefaultComponent,
   children: [
-  {path: '', component: HomeComponent},
+  {path: 'home', component: HomeComponent},
   {path: 'caps', component: CapsComponent},
-  {path: 'media', component: MediaComponent}
-  ]},
-  {path: '', component: FullwidthComponent,
-  children: [
-    {path: 'login', component: LoginComponent}
+  {path: 'media', component: MediaComponent},
+  {path: 'login', component: LoginComponent}
   ]},
   {path: 'cap1', loadChildren: () => import('./modules/caps/cap1/cap1.module').then(m => m.Cap1Module) },
   {path: 'cap2', loadChildren: () => import ('./modules/caps/cap2/cap2.module').then(m => m.Cap2Module)},

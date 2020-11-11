@@ -1,3 +1,4 @@
+import { LoginComponent } from './../../login/login.component';
 import { Page10Component } from './page10/page10.component';
 import { Page9Component } from './page9/page9.component';
 import { Page8Component } from './page8/page8.component';
@@ -28,6 +29,7 @@ const routes: Routes = [
     {path: 'page8', component: Page8Component},
     {path: 'page9', component: Page9Component},
     {path: 'page10', component: Page10Component},
+    {path: 'login', component: LoginComponent}
   ]},
   
 ];

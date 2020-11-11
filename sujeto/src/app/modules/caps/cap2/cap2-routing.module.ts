@@ -1,3 +1,4 @@
+import { LoginComponent } from './../../login/login.component';
 import { P12Component } from './cap2/p12/p12.component';
 import { P11Component } from './cap2/p11/p11.component';
 import { P10Component } from './cap2/p10/p10.component';
@@ -31,7 +32,8 @@ const routes: Routes = [
     {path: 'p9', component: P9Component},
     {path: 'p10', component: P10Component},
     {path: 'p11', component: P11Component},
-    {path: 'p12', component: P12Component}
+    {path: 'p12', component: P12Component},
+    {path: 'login', component: LoginComponent}
   ]}
 ];
 
