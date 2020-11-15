@@ -12,6 +12,7 @@ import { Routes, RouterModule } from '@angular/router';
 const routes: Routes = [
   {path: '', component: DefaultComponent,
   children: [
+    {path: '', component: HomeComponent},
   {path: 'home', component: HomeComponent},
   {path: 'caps', component: CapsComponent},
   {path: 'media', component: MediaComponent},
