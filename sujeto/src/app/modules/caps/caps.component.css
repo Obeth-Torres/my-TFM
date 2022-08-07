@@ -18,6 +18,9 @@
     line-height: 1.4rem;
     text-align: justify;
 }
+.resumen a {
+    text-decoration: none;
+}
 h3 {
     color: #9249ec;
     text-align: center;
